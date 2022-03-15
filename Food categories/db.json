@@ -1,0 +1,40 @@
+{
+    "datas": [
+      {
+        "ID": "001",
+        "Name": "Spaghetti",
+        "Image": "Spaghetti.jpg",
+        "price": "60"
+      },
+      {
+        "ID": "002",
+        "Name": "Steak",
+        "Image": "Steak.jpg",
+        "price": "80"
+      },
+      {
+        "ID": "003",
+        "Name": "Papaya Salad",
+        "Image": "PapayaSalad.jpg",
+        "price": "40"
+      },
+      {
+        "ID": "004",
+        "Name": "Tom-Yam-Kung",
+        "Image": "Tom-Yam-Kung.jpg",
+        "price": "60"
+      },
+      {
+        "ID": "005",
+        "Name": "Cha-Thai",
+        "Image": "drink1.jpg",
+        "price": "40"
+      },
+      {
+        "ID": "006",
+        "Name": "Root-Beer",
+        "Image": "drink2.jpg",
+        "price": "40"
+      }
+    ]
+  }
